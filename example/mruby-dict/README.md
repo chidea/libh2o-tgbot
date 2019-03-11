@@ -1,8 +1,12 @@
-
 ## libh2o-tgbot mruby-dict : A sample Telegram bot with H2O mruby script
+
+### Features
+- Multilingual dictionary
 
 ### Telegram bot link
 [@CJKIdiomsBot](https://telegram.me/CJKIdiomsBot)
+
+> Try `hua she tian zu` when your language is set to English (send `/lang en` to set to it manually)
 
 ### How to install
 - Run redis-server on default port 

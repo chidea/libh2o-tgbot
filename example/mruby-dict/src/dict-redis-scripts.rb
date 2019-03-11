@@ -1,0 +1,5 @@
+
+$redis_get_lang="a277b99a7694a3816432b299484b70d74cb8f57e"
+$redis_get_mean_by_id="99bcf779b958cbbb9dd7232fa12a82582edcccd5"
+$redis_get_mean_by_zh="0220bc8d48e1eabd30880fa8944ba128115e0738"
+$redis_get_mean_by_sound="823db79c9ab0d7a84f28e76be9084ac571229c63"

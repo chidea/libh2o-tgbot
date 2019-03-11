@@ -1,9 +1,0 @@
-= libh2o-tgbot
-A fast, efficient [[https://core.telegram.org/bots/api|Telegram bot]] server library based on [[https://github.com/h2o/h2o|libh2o]]
-
-=== Plan
-* Going to use webhooks as default request result handler since libh2o is good at this kind of work
-* Main structures are going to be based on [[https://github.com/tucnak/telebot|Golang Telebot framework]]
-* Build example as CJK idioms dictionary bot is going to be built first and the library will be built to generalize it
-* At first, dict example will be written in mruby and then converted later to C codes
-** It'll be used as main testing cases and be kept quick and dirty until building the library is done
